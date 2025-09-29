@@ -26,7 +26,7 @@ rayon = 2
 coef_friction = 0.5
 
 multiplicateur = 1/50
-attraction_coef = np.array([[3, -6, 0],
+attraction_coef = np.array([[3, -3, 0],
                             [3, 1, 0],
                             [-1, -1, -0.5]], dtype=np.float32)
 
